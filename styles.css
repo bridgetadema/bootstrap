@@ -1,0 +1,26 @@
+p{
+   font-family: arial; 
+   font-size: 26px;
+   display: block;
+}
+img{
+    max-width: 80%;
+    display: inline-block;
+    height: auto;
+    border: none;
+}
+.vision{
+background-color: #0096d1;
+color: black;
+}
+.mission{
+  background-color: orange;
+}
+
+ .core-values{
+  background-color: #0096d1;
+color: black;
+font-size: xx-large;
+padding-left: 5%;
+ }
+ 
